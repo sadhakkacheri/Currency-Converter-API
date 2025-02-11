@@ -83,7 +83,7 @@ POST http://localhost:8080/api/convert
 ### 📌 Steps to Run Locally  
 1️⃣ **Clone the repository**  
 ```sh
-git 
+git clone https://github.com/sadhakkacheri/Currency-Converter-API.git
 cd currency-converter-api
 ```
 2️⃣ **Set up environment variables**  
